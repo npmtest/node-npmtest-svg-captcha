@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 17:53:25 +0000    98439 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 17:53:25 +0000     1108 bytes  LICENSE.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 17:53:25 +0000     3476 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 17:53:25 +0000     3330 bytes  README_CN.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 17:53:25 +0000    80132 bytes  fonts/Comismsh.ttf</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 17:53:25 +0000       87 bytes  fonts/LICENSE.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 17:53:25 +0000     1896 bytes  index.d.ts</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 17:53:25 +0000       35 bytes  index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 17:53:25 +0000      541 bytes  lib/ch-to-path.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 17:53:25 +0000       98 bytes  lib/char-preset.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 17:53:25 +0000     2751 bytes  lib/index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 17:53:25 +0000      722 bytes  lib/option-manager.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 17:53:25 +0000     3108 bytes  lib/random.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 17:53:25 +0000     1155 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 17:54:27 +0000    98439 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 17:54:27 +0000     1108 bytes  LICENSE.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 17:54:27 +0000     3476 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 17:54:27 +0000     3330 bytes  README_CN.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 17:54:27 +0000    80132 bytes  fonts/Comismsh.ttf</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 17:54:27 +0000       87 bytes  fonts/LICENSE.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 17:54:27 +0000     1896 bytes  index.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 17:54:27 +0000       35 bytes  index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 17:54:27 +0000      541 bytes  lib/ch-to-path.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 17:54:27 +0000       98 bytes  lib/char-preset.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 17:54:27 +0000     2751 bytes  lib/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 17:54:27 +0000      722 bytes  lib/option-manager.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 17:54:27 +0000     3108 bytes  lib/random.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 17:54:27 +0000     1155 bytes  package.json</tspan>
 </text>
 </svg>
